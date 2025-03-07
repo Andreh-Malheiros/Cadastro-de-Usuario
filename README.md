@@ -26,6 +26,9 @@ Este é meu primeiro projeto em Dart! O objetivo deste sistema é gerenciar func
 2. Clone este repositório:
 
    ```sh
-   git clone https://github.com/Andreh-Malheiros/NOME_DO_REPOSITORIO.git
-   cd NOME_DO_REPOSITORIO
+   git clone https://github.com/Andreh-Malheiros/Cadastro-de-Usuario.git
+   cd Cadastro-de-Usuario
+
+3. Execute o arquivo principal
    ```sh
+    dart main.dart
